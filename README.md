@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do ramiroeze1379-web 😁
+## Bem-vindo(a) ao perfil de ramiroeze1379-web 💪
 
  <div>
    <a href="https://github.com/ramiroeze1379-web">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Estudante de Programação com muita vontade de aprender!💪
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
